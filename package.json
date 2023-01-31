@@ -1,0 +1,21 @@
+{
+  "name": "primer_ejercicio",
+  "version": "1.0.0",
+  "description": "Este es mi primer ejercicio en el curso javascript basico de bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "primer_ejercicio": "node primer_ejercicio.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraccan/cursojavascriptbasicobootcamp.git"
+  },
+  "author": "javier_velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uraccan/cursojavascriptbasicobootcamp/issues"
+  },
+  "homepage": "https://github.com/uraccan/cursojavascriptbasicobootcamp#readme"
+}
